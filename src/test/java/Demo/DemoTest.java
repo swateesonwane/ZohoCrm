@@ -9,6 +9,7 @@ public class DemoTest {
 	public void add()
 	{
 		Reporter.log("add");
+		Reporter.log("sub");
 	}
 	
 
